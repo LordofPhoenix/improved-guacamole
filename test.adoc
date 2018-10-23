@@ -1,4 +1,4 @@
-hello world. how are you?
-wyes im fine
+hello world. + how are you?
+yes im fine
 
-thanks fpr asking
+thanks for asking
