@@ -1,6 +1,6 @@
 hello world. +
 how are you?
 
-[%hardbreaks]
+[%hardbreaks
 yes im fine
 thanks for asking
